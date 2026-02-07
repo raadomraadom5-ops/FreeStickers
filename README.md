@@ -11,7 +11,7 @@ A high-quality collection of free stickers and GIFs for Discord. Custom-made for
 | <img src="image (1).png" width="100"> | `shrimp-dunk.png` | Flaming shrimp dunking on a shark. Pure fire. | 🔥 Epic |
 | <img src="25_Kachow_Sound_Variations_in_30_Seconds.gif" width="100"> | `kachow-roast.gif` | Lightning McQueen roast sessions. | 🏎️ Roast |
 | <img src="togif-1.gif" width="100"> | `nitro-animated.gif` | fake Nitro gift for maximum deception. | 🎭 Animated |
-| <img src="oia uia.gif" width="100"> | `oiia.gif` | OIIA I O IIIAI. | 🎭 Animated |
+| <img src="oia-uia.gif" width="100"> | `oiia.gif` | OIIA I O IIIAI. | 🎭 Animated |
 
 
 
