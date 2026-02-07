@@ -12,7 +12,7 @@ A high-quality collection of free stickers and GIFs for Discord. Custom-made for
 | <img src="25_Kachow_Sound_Variations_in_30_Seconds.gif" width="100"> | `kachow-roast.gif` | Lightning McQueen roast sessions. | 🏎️ Roast |
 | <img src="togif-1.gif" width="100"> | `nitro-animated.gif` | fake Nitro gift for maximum deception. | 🤡 Troll |
 | <img src="oia-uia.gif" width="100"> | `oiia.gif` | OIIA I O IIIAI. | 🎭 Animated |
-| <img src="foxy-jump.gif" width="100"> | `oiia.gif` | hey you im scared of ligths dont pu- AAAAAAAAAAAAA. | 🎭 Animated |
+| <img src="foxy-jump.gif" width="100"> | `FNAF2.gif` | hey you im scared of ligths dont pu- AAAAAAAAAAAAA. | 🎭 Animated |
 
 
 
