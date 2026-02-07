@@ -13,7 +13,7 @@ A high-quality collection of free stickers and GIFs for Discord. Custom-made for
 | <img src="togif-1.gif" width="100"> | `nitro-animated.gif` | fake Nitro gift for maximum deception. | 🤡 Troll |
 | <img src="oia-uia.gif" width="100"> | `oiia.gif` | OIIA I O IIIAI. | 🎭 Animated |
 | <img src="foxy-jump.gif" width="100"> | `FNAF2.gif` | hey you im scared of ligths dont pu- AAAAAAAAAAAAA. | 🎭 Animated |
-| <img src="camman18-meme.gif" width="100"> | `rarest-block.gif` | POV: You're explaining why the Deepslate Emerald Ore is a myth. | 🎭 Educational |
+| <img src="camman18-minecraft.gif" width="100"> | `rarest-block.gif` | POV: You're explaining why the Deepslate Emerald Ore is a myth. | 🎭 Educational |
 
 
 
