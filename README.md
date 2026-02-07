@@ -7,10 +7,13 @@ A high-quality collection of free stickers and GIFs for Discord. Custom-made for
 
 | Preview | File Name | Description | Category |
 | :---: | :--- | :--- | :---: |
-| <img src="man-eats-watermelon-fast.gif" width="100"> | `watermalon.png` | A Man Eating. | 🤡 Eater |
+| <img src="man-eats-watermelon-fast.gif" width="100"> | `watermalon.gif` | A Man Eating. | 🤡 Eater |
 | <img src="image (1).png" width="100"> | `shrimp-dunk.png` | Flaming shrimp dunking on a shark. Pure fire. | 🔥 Epic |
 | <img src="25_Kachow_Sound_Variations_in_30_Seconds.gif" width="100"> | `kachow-roast.gif` | Lightning McQueen roast sessions. | 🏎️ Roast |
-| <img src="togif-1.gif" width="100"> | `nitro-animated.gif` | Animated fake Nitro gift for maximum deception. | 🎭 Animated |
+| <img src="togif-1.gif" width="100"> | `nitro-animated.gif` | fake Nitro gift for maximum deception. | 🎭 Animated |
+| <img src="oia uia.gif" width="100"> | `oiia.gif` | OIIA I O IIIAI. | 🎭 Animated |
+
+
 
 ---
 
