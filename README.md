@@ -15,6 +15,8 @@ A high-quality collection of free stickers and GIFs for Discord. Custom-made for
 | <img src="foxy-jump.gif" width="100"> | `FNAF2.gif` | hey you im scared of ligths dont pu- AAAAAAAAAAAAA. | 🎭 Animated |
 | <img src="camman18-minecraft.gif" width="100"> | `rarest-block.gif` | POV: You're explaining why the Deepslate Emerald Ore is a myth. | 🎭 Educational |
 | <img src="shado.gif" width="100"> | `shado.gif` | i stil see ur shados in room. | 🎭 Animated |
+| <img src="gonna-miss-you.gif" width="100"> | gonna-miss-you.gif | I'M GONNA MISS YOU. (Pikachu Farewell) | 🎭 Animated |
+
 
 
 
