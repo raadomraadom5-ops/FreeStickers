@@ -16,7 +16,7 @@ A high-quality collection of free stickers and GIFs for Discord. Custom-made for
 | <img src="camman18-minecraft.gif" width="100"> | `rarest-block.gif` | POV: You're explaining why the Deepslate Emerald Ore is a myth. | 🎭 Educational |
 | <img src="shado.gif" width="100"> | `shado.gif` | i stil see ur shados in room. | 🎭 Animated |
 | <img src="gonna-miss-you.gif" width="100"> | gonna-miss-you.gif | I'M GONNA MISS YOU. (Pikachu Farewell) | 🎭 Animated |
-| <a href="https://discord.gg/U6ESGNAu"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQamFhxPiN64GklevEHR2DLYOQUYAbExys-RA&s" width="100"></a> | Discord Server | Join us to request new stickers! | 🌐 Social |
+| <a href="https://discord.gg/mcTa2furx4"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQamFhxPiN64GklevEHR2DLYOQUYAbExys-RA&s" width="100"></a> | Discord Server | Join us to request new stickers! | 🌐 Social |
 
 
 
@@ -36,4 +36,3 @@ A high-quality collection of free stickers and GIFs for Discord. Custom-made for
 Have an epic sticker? Feel free to open a **Pull Request** or an **Issue** to suggest new additions to the collection!
 
 ⭐ **Don't forget to star this repo if you use it!**
-[![Join Discord](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQamFhxPiN64GklevEHR2DLYOQUYAbExys-RA&s)](https://discord.gg/U6ESGNAu)
