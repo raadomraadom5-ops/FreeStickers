@@ -4,7 +4,7 @@
 | :---: | :--- | :---: | :--- | :---: |
 | <img src="man-eats-watermelon-fast.gif" width="100"> | `EatingWatermalon.gif` | [**📥 Descargar**](https://raw.githubusercontent.com/raadomraadom5/FreeStickers/main/man-eats-watermelon-fast.gif) | A Man Eating. | 🎭 Animated |
 | <img src="image (1).png" width="100"> | `shrimp-dunk.png` | [**📥 Descargar**](https://raw.githubusercontent.com/raadomraadom5/FreeStickers/main/image%20(1).png) | Flaming shrimp dunking on a shark. | 🔥 Epic |
-| <img src="Kachow.gif" width="100"> | `25_Kachow_...gif` | [**📥 Descargar**](https://raw.githubusercontent.com/raadomraadom5/FreeStickers/main/25_Kachow_Sound_Variations_in_30_Seconds.gif) | Lightning McQueen roast sessions. | 🏎️ Roast |
+| <img src="25_Kachow_Sound_Variations_in_30_Seconds.gif" width="100"> | `Kachow.gif` | [**📥 Descargar**](https://raw.githubusercontent.com/raadomraadom5/FreeStickers/main/25_Kachow_Sound_Variations_in_30_Seconds.gif) | Lightning McQueen roast sessions. | 🏎️ Roast |
 | <img src="togif-1.gif" width="100"> | `Nitro.gif` | [**📥 Descargar**](https://raw.githubusercontent.com/raadomraadom5/FreeStickers/main/togif-1.gif) | Fake Nitro gift for maximum deception. | 🤡 Troll |
 | <img src="oia-uia.gif" width="100"> | `OIIACAT.gif` | [**📥 Descargar**](https://raw.githubusercontent.com/raadomraadom5/FreeStickers/main/oia-uia.gif) | OIIA I O IIIAI. | 🎭 Animated |
 | <img src="foxy-jump.gif" width="100"> | `FNAF2.gif` | [**📥 Descargar**](https://raw.githubusercontent.com/raadomraadom5/FreeStickers/main/foxy-jump.gif) | Hey you im scared of lights... | 🎭 Animated |
