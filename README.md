@@ -1,4 +1,3 @@
-# 🎭 FreeStickers
 A high-quality collection of free stickers and GIFs for Discord. Custom-made for trolling, roasts, and epic moments.
 
 ---
