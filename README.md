@@ -16,10 +16,9 @@
 ---
 
 ## 🛠️ Installation & Usage
-1. **Browse:** Busca el sticker que más te guste.
-2. **Download:** Haz clic en el botón **"📥 Descargar"**.
-3. **Upload to Discord:** Súbelo desde los ajustes de tu servidor en la sección de `Stickers`.
-
+1. **Browse:** Find the sticker you like best.
+2. **Download:** Click the **"📥 Download"** button.
+3. **Upload to Discord:** Upload it from your server settings in the `Stickers` section.
 ---
 
 ## 🤝 Contributions
