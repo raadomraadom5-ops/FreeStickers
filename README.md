@@ -12,7 +12,8 @@
 | <img src="shado.gif" width="100"> | `shado.gif` | [**📥 Descargar**](https://raw.githubusercontent.com/raadomraadom5/FreeStickers/main/shado.gif) | i stil see ur shados in room. | 🎭 Animated |
 | <img src="gonna-miss-you.gif" width="100"> | `GonnaMissYou.gif` | [**📥 Descargar**](https://raw.githubusercontent.com/raadomraadom5/FreeStickers/main/gonna-miss-you.gif) | I'M GONNA MISS YOU. | 🎭 Animated |
 | <img src="Original_Doge_meme.jpg" width="100"> | `Doge.jpg` | [**📥 Descargar**](https://raw.githubusercontent.com/raadomraadom5/FreeStickers/main/gonna-miss-you.gif) | Hi Doge. | 💀 RIP |
-| <img src="Capybara.png" width="100"> | `Capybara.png` | [**📥 Descargar**](https://raw.githubusercontent.com/raadomraadom5/FreeStickers/main/Capybara.png) | CapyBARA. | 🐐 Popular |
+| <img src="maxwell.gif" width="100"> | `Maxwell-The-Cat.gif` | [**📥 Descargar**](https://raw.githubusercontent.com/raadomraadom5/FreeStickers/main/maxwell.gif.png) | The spinning tuxedo cat who conquered the internet. | 💀 RIP |
+| <img src="Capybara.png" width="100"> | `CAPYBARA.png` | [**📥 Descargar**](https://raw.githubusercontent.com/raadomraadom5/FreeStickers/main/Capybara.png) | Capybara. |🐐 Popular |
 | <a href="https://discord.gg/mcTa2furx4"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQamFhxPiN64GklevEHR2DLYOQUYAbExys-RA&s" width="100"></a> | `Discord Server` | [**🔗 Join**](https://discord.gg/mcTa2furx4) | Join us to request new stickers! | 🌐 Social |
 
 ---
