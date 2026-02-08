@@ -1,7 +1,3 @@
-A high-quality collection of free stickers and GIFs for Discord. Custom-made for trolling, roasts, and epic moments.
-
----
-
 ## 🚀 Sticker Gallery
 
 | Preview | File Name | Description | Category |
