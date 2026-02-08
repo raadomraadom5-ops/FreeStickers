@@ -1,5 +1,2 @@
-
-include:
-  - favicon.ico
-
-favicon: ./favicon.ico
+favicon: ./favicon.png
+include: [favicon.png]
